@@ -1,0 +1,2 @@
+# rabbitmq
+Projetos envolvendo mensageria
